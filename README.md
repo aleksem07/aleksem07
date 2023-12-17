@@ -8,7 +8,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aleksem07&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
-<img src="https://komarev.com/ghpvc/?username=aleksem07&style=flat-square&color=red" alt=""/>
+[![](https://visitcount.itsvg.in/api?id=aleksem07&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
 **aleksem07/aleksem07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
