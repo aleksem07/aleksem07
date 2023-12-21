@@ -2,10 +2,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksem07&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aleksem07&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aleksem07&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
