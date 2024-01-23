@@ -10,6 +10,7 @@
   <img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/pug.svg" title="Pug" alt="Pug" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" width="40" height="40">&nbsp;
@@ -21,6 +22,8 @@
 </div>
 
 ---
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=aleksem07&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 [![](https://visitcount.itsvg.in/api?id=aleksem07&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
