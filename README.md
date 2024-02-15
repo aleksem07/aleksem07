@@ -19,11 +19,11 @@
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/pug.svg" title="Pug" alt="Pug" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg"  title="Git"  title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" title="GitHub" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/graphql/graphql-plain-wordmark.svg" title="Graphql" alt="Graphql" width="40" height="40">&nbsp;
 </div>
 
