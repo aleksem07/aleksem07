@@ -30,7 +30,8 @@
 ---
 ###### 22-01-24 /
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=aleksem07&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=alaeksem07)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=aleksem07)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=aleksem07&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 [![](https://visitcount.itsvg.in/api?id=aleksem07&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
