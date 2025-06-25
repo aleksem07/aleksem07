@@ -6,7 +6,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksem07&layout=compact&langs_count=8&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksem07&layout=compact&langs_count=10&theme=github_dark)
 
 ---
 
